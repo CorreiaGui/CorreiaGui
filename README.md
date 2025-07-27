@@ -1,25 +1,33 @@
-### 👋 Olá! Meu nome é Guilherme Correia, 🌱 tenho 21 anos e 🔭 sou estudante em análise e desenvolvimento de sistemas pela FMU. ⚡ Me encontro em constante busca por conhecimento e aprimoramento na área de programação.
+# Guilherme Correia
 
-💬 Ao longo da minha jornada, pude adquirir experiências valiosas que moldaram minha abordagem profissional. Servi como cabo do exército na seção administrativa por dois anos, onde desenvolvi habilidades essenciais, como organização, trabalho em equipe e resolução de problemas sob pressão. Essa experiência me proporcionou disciplina, adaptabilidade e a capacidade de tomar decisões assertivas mesmo em situações desafiadoras.
+## Sobre mim
 
-✨ Busco constantemente evoluir profissionalmente e agregar valor ao mercado de trabalho. Sou um profissional comprometido, proativo e focado em resultados. Acredito que a chave para o sucesso está na capacidade de enfrentar desafios de forma criativa e encontrar soluções eficientes e inovadoras. Além disso, valorizo a colaboração e a troca de conhecimento em equipe, pois acredito que isso impulsiona o crescimento profissional e o alcance de resultados excepcionais.
+Olá! Meu nome é Guilherme Correia e sou estudante de tecnologia, com experiências práticas em desenvolvimento backend, testes de software e atualmente atuando como **Analista de Dados**. Tenho interesse especial por automações, integração de sistemas e soluções baseadas em dados.
 
-## Estou aprendendo:
+## 💼 Experiência
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
-          
-          
+- **Analista de Dados** (atual): Atuo com automações em Python, integração de dados, controle de pipelines com Jenkins e geração de relatórios.
+- **QA**: Atuação com testes manuais e automatizados, utilizando BDD, Cypress, e metodologias ágeis (Scrum).
+- **Java Developer**: Desenvolvimento e manutenção de APIs com Java e Spring Boot, além de colaborar em testes e integração entre sistemas.
 
-## Contatos:
+## 🧰 Tecnologias
+
+- **Linguagens**: Python, Java (Spring Boot), Angular
+- **Ferramentas**: Jenkins, Git, Postman, SQL, Cypress
+- **Metodologias**: Scrum, BDD, Testes Automatizados e Manuais
+
+## 🎯 Objetivos
+
+Atualmente me desenvolvendo como Analista de Dados, busco consolidar minha formação full stack com foco em backend e engenharia de dados. Gosto de trabalhar em times colaborativos e que valorizam a qualidade técnica e a entrega de valor contínuo.
+
+## 📊 GitHub Stats
 
 <div>
-<a href="https://www.instagram.com/correiagui_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:gc.correia21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/guilherme-correia-353629224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CorreiaGui&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorreiaGui&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-##
-<div>
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CorreiaGui&show_icons=true&theme=Radical&include_all_commits=true&count_private=true"/>
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorreiaGui&layout=compact&langs_count=7&theme=Radical"/>
-</div>
+## 📫 Contato
+
+- [LinkedIn](www.linkedin.com/in/guilherme-correia-353629224)
+- E-mail: gc.correia21@gmail.com
